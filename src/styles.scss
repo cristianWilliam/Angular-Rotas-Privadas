@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+*{
+  font-family: 'Oswald', sans-serif;
+  color: #506D84;
+}
+
+body{
+  background-color:#F3D5C0;
+}
+
+p{
+  span{
+    color: #847450;
+  }
+}
